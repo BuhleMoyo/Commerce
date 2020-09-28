@@ -1,0 +1,155 @@
+body {
+  padding: 20px;
+}
+
+p.help {
+  font-size: 10px;
+  color: gray;
+  margin: 0 0 4px;
+}
+
+.form-group {
+  margin-top: 40px;
+}
+
+.listing-price p {
+  font-size: 16px;
+}
+
+.listing {
+  margin-bottom: 30px;
+}
+
+.all-Listing {
+  padding-top: 20px;
+}
+
+.parent {
+  width: 100px;
+}
+
+.listing-title h4 {
+  text-transform: capitalize;
+}
+
+.listing-description p {
+  font-size: 14px;
+  color: rgb(15, 15, 15);
+}
+
+.listing-owner {
+  font-size: 12px;
+  color: rgb(15, 15, 15);
+}
+
+.listing-starting-price p {
+  font-size: 11px;
+  color: rgb(15, 15, 15);
+}
+
+p.listing-current-price-text {
+  font-size: 11px;
+  margin-bottom: 0;
+  color: rgb(15, 15, 15);
+}
+
+.listing-page-quick-info p {
+  margin-bottom: 5px;
+  font-size: 12px;
+  color: rgb(15, 15, 15);
+}
+.listing-page-quick-info .listing-info-value {
+  color: rgb(15, 15, 15);
+}
+.listing-page-quick-info h2 {
+  margin-bottom: 20px;
+}
+
+.listing-image-listing img, .listing-image-index img {
+  width: 100%;
+  height: auto;
+}
+
+@media (min-width: 992px) {
+  .listing-image-index img {
+    width: 50%;
+  }
+}
+
+.listing-image-listing {
+  height: 400px;
+  margin-top: 30px;
+}
+
+.watchlist-section button {
+  background: transparent;
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+.watchlist-section img {
+  height: 20px;
+  padding-left: 10px;
+  margin-bottom: 3px;
+}
+.watchlist-section p {
+  text-align: right;
+  margin: 0;
+}
+
+.listing-page-bid-section {
+  margin-top: 70px;
+}
+.listing-page-bid-section button {
+  font-size: 10px;
+  background: rgb(51, 75, 182);
+  border: rgba(93, 186, 240, 0.24);
+  margin-left: 120px;
+}
+
+.errorlist {
+  color: red;
+  font-size: 12px;
+}
+
+.listing-page-bid-close-section {
+  margin-top: 50px;
+}
+.listing-page-bid-close-section button {
+  background: #406283;
+  border-radius: 10px;
+  color: white;
+}
+
+.listing-page-end-result {
+  margin-top: 40px;
+}
+
+fieldset.disabled {
+  background: white;
+  opacity: 0.4;
+}
+
+.listing-closed-info {
+  font-size: 12px;
+  color: rgb(15, 15, 15);
+}
+
+#comment-form .form-group {
+  padding: 0;
+  margin: 0 0 10px;
+}
+#comment-form label {
+  padding: 0;
+  margin: 0;
+}
+
+.type-your-comment {
+  margin-top: 50px;
+}
+
+.each-comment p {
+  color: rgb(15, 15, 15);
+}
+
+/*# sourceMappingURL=styles.css.map */
